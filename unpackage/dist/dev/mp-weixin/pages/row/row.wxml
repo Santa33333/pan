@@ -1,0 +1,1 @@
+<swiper data-event-opts="{{[['change',[['swiperChange',['$event']]]]]}}" class="swiper-container" bindchange="__e"><block wx:for="{{swiperList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><swiper-item><view class="slide-content" animation="{{item.animation}}">{{item.content}}</view></swiper-item></block></swiper>

@@ -1,0 +1,15 @@
+
+.swiper-container {
+  width: 100%;
+  height: 300px; /* 可根据实际情况调整 */
+}
+.slide-content {
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+  margin-top: 200rpx;
+  text-align: center;
+  line-height: 210px;
+  background-color: #4CD964;
+}
+
